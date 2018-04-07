@@ -19,7 +19,7 @@
         android:layout_marginTop="25dp"
         android:gravity="center_horizontal"
         android:text="Personal Details"
-        android:textColor="#ff0000"
+        android:textColor="#f0f00f"
         android:textSize="30sp" />
 
 
